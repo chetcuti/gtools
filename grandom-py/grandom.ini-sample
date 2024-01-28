@@ -1,0 +1,5 @@
+[config]
+number_of_options = 2
+number_of_rolls = 100000
+show_full_details = 1
+

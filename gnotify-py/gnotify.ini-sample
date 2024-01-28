@@ -1,0 +1,4 @@
+[config]
+api_url = https://api.example.com
+api_key = abcdefghijklmnopqrstuvwxyz1234567890
+

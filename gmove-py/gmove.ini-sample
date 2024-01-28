@@ -1,0 +1,4 @@
+[config]
+source_dir = /this/is/the/source/dir/
+target_dir = /and/this/is/the/target/dir/
+
