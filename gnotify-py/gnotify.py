@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author: Greg Chetcuti <greg@chetcuti.com>
+Author: Greg Chetcuti <greg@greg.ca>
 Date: 2021-08-03
 Purpose: Send notifications from the CLI
 """
